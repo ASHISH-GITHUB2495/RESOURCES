@@ -35,6 +35,13 @@ for actual concept of binary search that how its work .....
     go to the link ---------->  https://www.youtube.com/playlist?list=PL2q4fbVm1Ik5HC7D3gUwc8cqwDtvOaqke
     
     
+   
+  5.PRACTICE QUESTIONS FROM LOW TO HIGH DIFFICULTY
+     
+     
+     go to the link ---------->  http://codedigger.tech/practice/topicwise/10
+    
+    
     
     
     
