@@ -12,18 +12,24 @@ so...follow site
    
    3.Prime checking , seive of erathones and segmented seive
           -- https://www.youtube.com/watch?v=ga9N_ey4La4&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG&index=3&t=0s
+          
           -- https://www.youtube.com/watch?v=1K-NPoepIHc&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG&index=5&t=0s
+          
           -- https://www.youtube.com/watch?v=khPI7I8H8CM&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG&index=31&t=0s
           
           
    4.factorial of number (Prime factors)
           -- https://www.youtube.com/watch?v=geLyvdjxQNg&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG&index=7&t=0s
+          
           -- https://www.youtube.com/watch?v=DQJfvz2Dhss&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG&index=11&t=0s
           
    5. Euler's totient function
           -- https://www.youtube.com/watch?v=u8xQUtxUJeg&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG&index=25&t=0s
+          
           -- https://www.youtube.com/watch?v=jtmi7Fj7fgE&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG&index=26&t=0s
+          
           -- https://www.youtube.com/watch?v=sRWdCJyJg4E&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG&index=27&t=0s
+          
           -- https://www.youtube.com/watch?v=sRWdCJyJg4E&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG&index=27&t=0s
           
    6.Fermett's Little theorm
